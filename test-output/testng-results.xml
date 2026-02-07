@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-05T08:16:22 IST" name="Suite" finished-at="2026-02-05T08:16:22 IST" duration-ms="76">
+    <groups>
+      <group name="smoke">
+        <method signature="Demo1Test.fruitstest()[pri:0, instance:Parctise.Demo1Test@131774fe]" name="fruitstest" class="Parctise.Demo1Test"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2026-02-05T08:16:22 IST" name="Test" finished-at="2026-02-05T08:16:22 IST" duration-ms="76">
+      <class name="Parctise.Demo1Test">
+        <test-method signature="fruitstest()[pri:0, instance:Parctise.Demo1Test@131774fe]" started-at="2026-02-05T08:16:22 IST" name="fruitstest" finished-at="2026-02-05T08:16:22 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fruitstest -->
+      </class> <!-- Parctise.Demo1Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
